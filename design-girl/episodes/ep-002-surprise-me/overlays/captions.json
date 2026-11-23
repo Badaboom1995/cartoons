@@ -1,0 +1,160 @@
+{
+ "s01": {
+  "who": "girl",
+  "lines": [
+   "Hey, Claude…"
+  ]
+ },
+ "s03a": {
+  "who": "girl",
+  "lines": [
+   "The deadline is so close…"
+  ]
+ },
+ "s03b": {
+  "who": "girl",
+  "lines": [
+   "…and I still have zero ideas."
+  ]
+ },
+ "s04a": {
+  "who": "girl",
+  "lines": [
+   "I need some inspiration…"
+  ]
+ },
+ "s04b": {
+  "who": "girl",
+  "lines": [
+   "…surprise me."
+  ]
+ },
+ "s05a": {
+  "who": "girl",
+  "lines": [
+   "Okay…"
+  ]
+ },
+ "s05b": {
+  "who": "girl",
+  "lines": [
+   "I'm gonna nap a little."
+  ]
+ },
+ "s06a": {
+  "who": "girl",
+  "lines": [
+   "Huh?!"
+  ]
+ },
+ "s06b": {
+  "who": "girl",
+  "lines": [
+   "…Claude…"
+  ]
+ },
+ "s06c": {
+  "who": "girl",
+  "lines": [
+   "…was there a",
+   "party just now?"
+  ]
+ },
+ "s08a": {
+  "who": "girl",
+  "lines": [
+   "My moodboard…"
+  ]
+ },
+ "s08b": {
+  "who": "girl",
+  "lines": [
+   "…my deadline…"
+  ]
+ },
+ "s08c": {
+  "who": "girl",
+  "lines": [
+   "Claude!"
+  ]
+ },
+ "s10a": {
+  "who": "girl",
+  "lines": [
+   "…Oh."
+  ]
+ },
+ "s10b": {
+  "who": "girl",
+  "lines": [
+   "That's… actually beautiful."
+  ]
+ },
+ "s11a": {
+  "who": "girl",
+  "lines": [
+   "Thank you, Claude."
+  ]
+ },
+ "s11b": {
+  "who": "girl",
+  "lines": [
+   "Now I can finally",
+   "go for a walk."
+  ]
+ },
+ "b02": {
+  "who": "claude",
+  "lines": [
+   "Yep, I'm here!"
+  ]
+ },
+ "b05": {
+  "who": "claude",
+  "lines": [
+   "Say less. Cooking!"
+  ]
+ },
+ "b07a": {
+  "who": "claude",
+  "lines": [
+   "A party?"
+  ]
+ },
+ "b07b": {
+  "who": "claude",
+  "lines": [
+   "Nooo. No party."
+  ]
+ },
+ "b07c": {
+  "who": "claude",
+  "lines": [
+   "…Definitely… no party."
+  ]
+ },
+ "b09": {
+  "who": "claude",
+  "lines": [
+   "Hey, relax. Look."
+  ]
+ },
+ "b12a": {
+  "who": "claude",
+  "lines": [
+   "Go! Enjoy it."
+  ]
+ },
+ "b12b": {
+  "who": "claude",
+  "lines": [
+   "I've got this."
+  ]
+ },
+ "b13": {
+  "who": "claude",
+  "lines": [
+   "…oh no."
+  ]
+ }
+}

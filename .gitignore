@@ -1,0 +1,18 @@
+# Blender backups and lock files
+*.blend[0-9]
+*.blend@
+
+# Blender build workspace: copies of builds by round, worker reports
+.work/
+
+# Audio previews and finished videos
+renders/
+
+# Secrets and local settings
+.env.local
+*.local
+.claude/settings.local.json
+
+# System and Python
+.DS_Store
+__pycache__/

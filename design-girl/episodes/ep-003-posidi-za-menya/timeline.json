@@ -1,0 +1,673 @@
+{
+ "id": "ep-003",
+ "title": "Посиди за меня",
+ "fps": 24,
+ "frame_start": 1,
+ "frame_end": 1499,
+ "shots": [
+  {
+   "id": 0,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Общий план всей комнаты",
+   "camera": "Плавный наезд",
+   "action": "Утро, уютная комната. Она за столом у ноутбука, Клод рядом. На экране подключение, звучит сигнал входа в звонок, появляется созвон",
+   "sound": "Сигнал входа в звонок",
+   "caption": "",
+   "transition": null,
+   "sfx": [
+    {
+     "id": "join",
+     "file": "audio/sfx/join.wav",
+     "gain": 0.8,
+     "first_frame": 32
+    }
+   ],
+   "first_frame": 1,
+   "last_frame": 77,
+   "lines": []
+  },
+  {
+   "id": 1,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Экран ноутбука в комнате",
+   "camera": "Статика",
+   "action": "Созвон на ноутбуке: большая плитка Виктора, остальные столбиком сбоку. Его плитка мигает, когда он говорит",
+   "sound": "Тихая комната",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 78,
+   "last_frame": 111,
+   "lines": [
+    {
+     "id": "v01",
+     "who": "viktor",
+     "text": "Коллеги, доброе утро! Сегодня я собрал вас, чтобы рассказать о ценностях нашей компании.",
+     "how": "торжественно и бодро, как мотивационный спикер на сцене, на одном дыхании, очень доволен собой",
+     "file": "audio/paced/v01.wav",
+     "first_frame": 78,
+     "last_frame": 187
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Крупно она",
+   "camera": "Медленный наезд",
+   "action": "Виктор продолжает говорить поверх её лица. Каменный взгляд, скептически закатывает глаза, выдыхает и, не отводя лица, нажимает клавишу на клавиатуре",
+   "sound": "Виктор продолжает, щелчок клавиши",
+   "caption": "",
+   "transition": null,
+   "sfx": [
+    {
+     "id": "key",
+     "file": "audio/sfx/key.wav",
+     "gain": 0.5,
+     "first_frame": 158
+    }
+   ],
+   "first_frame": 112,
+   "last_frame": 159,
+   "lines": []
+  },
+  {
+   "id": 3,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Экран ноутбука в комнате",
+   "camera": "Статика",
+   "action": "Большой значок её микрофона на экране ноутбука перечёркивается, «Ваш микрофон выключен». Виктор продолжает говорить, его плитка мигает",
+   "sound": "Виктор продолжает",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 160,
+   "last_frame": 191,
+   "lines": []
+  },
+  {
+   "id": 4,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Крупно она",
+   "camera": "Статика",
+   "action": "Поворачивается к Клоду",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 192,
+   "last_frame": 246,
+   "lines": [
+    {
+     "id": "v02",
+     "who": "girl",
+     "text": "Клод, если что, ответишь за меня? Я отойду.",
+     "how": "живо, вполголоса, с хитринкой",
+     "file": "audio/paced/v02.wav",
+     "first_frame": 192,
+     "last_frame": 241
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Поворачивается к ней, внимательно смотрит",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 247,
+   "last_frame": 280,
+   "lines": [
+    {
+     "id": "v03",
+     "who": "claude",
+     "text": "Конечно. Что мне делать?",
+     "how": "готов помочь",
+     "file": "audio/paced/v03.wav",
+     "first_frame": 247,
+     "last_frame": 276
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Крупно она",
+   "camera": "Статика",
+   "action": "Уже встаёт из-за стола, легко отмахивается",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 281,
+   "last_frame": 357,
+   "lines": [
+    {
+     "id": "v04",
+     "who": "girl",
+     "text": "Просто слушай. Если что-то спросят, отвечай коротко и по делу.",
+     "how": "бодро и энергично, уже на ходу, легко отмахиваясь",
+     "file": "audio/paced/v04.wav",
+     "first_frame": 281,
+     "last_frame": 353
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Короткий кивок",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 358,
+   "last_frame": 372,
+   "lines": [
+    {
+     "id": "v05",
+     "who": "claude",
+     "text": "Понял.",
+     "how": "",
+     "file": "audio/paced/v05.wav",
+     "first_frame": 358,
+     "last_frame": 368
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "scene": 1,
+   "setting": "день",
+   "framing": "Общий план комнаты",
+   "camera": "Статика",
+   "action": "Она уходит из кадра и на ходу бросает реплику. Пустой стул и Клод. Затем быстрый таймлапс: свет плавно уходит от дня к вечеру, загорается лампа",
+   "sound": "Шаги",
+   "caption": "",
+   "transition": {
+    "type": "timelapse",
+    "seconds": 1.6
+   },
+   "sfx": [],
+   "first_frame": 373,
+   "last_frame": 468,
+   "lines": [
+    {
+     "id": "v26",
+     "who": "girl",
+     "text": "Я за кофе, скоро буду.",
+     "how": "бодро и легко, уже на ходу, не оборачиваясь",
+     "file": "audio/paced/v26.wav",
+     "first_frame": 375,
+     "last_frame": 408
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Общий, тот же кадр",
+   "camera": "Статика",
+   "action": "Сумерки, горит лампа, Клод в той же позе. Титр «Тем же вечером» на постобработке. Она возвращается с прогулки в отличном настроении, с чашкой, и садится",
+   "sound": "Шаги, вечерняя тишина",
+   "caption": "Тем же вечером",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 469,
+   "last_frame": 539,
+   "lines": [
+    {
+     "id": "v06",
+     "who": "girl",
+     "text": "Ну что, как прошло?",
+     "how": "бодро и весело, в приподнятом настроении, только что вернулась с прогулки",
+     "file": "audio/paced/v06.wav",
+     "first_frame": 510,
+     "last_frame": 535
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Смотрит на неё",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 540,
+   "last_frame": 590,
+   "lines": [
+    {
+     "id": "v07",
+     "who": "claude",
+     "text": "Отлично. Объявили о сокращениях.",
+     "how": "одним ровным тоном",
+     "file": "audio/paced/v07.wav",
+     "first_frame": 540,
+     "last_frame": 586
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Средний спереди",
+   "camera": "Начинает плавный наезд",
+   "action": "Чашка замирает у рта",
+   "sound": "Звук обрывается",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 591,
+   "last_frame": 607,
+   "lines": []
+  },
+  {
+   "id": 12,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Плавный переход в фишай прямо в лицо",
+   "camera": "Плавный наезд из кадра 11 с расширением объектива до фишая",
+   "action": "Немая пауза с чашкой у рта, затем вопрос",
+   "sound": "Почти полная тишина",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 608,
+   "last_frame": 655,
+   "lines": [
+    {
+     "id": "v08",
+     "who": "girl",
+     "text": "Меня уволили?",
+     "how": "испуганно, с замиранием",
+     "file": "audio/paced/v08.wav",
+     "first_frame": 634,
+     "last_frame": 651
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Без выражения",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 656,
+   "last_frame": 745,
+   "lines": [
+    {
+     "id": "v10",
+     "who": "claude",
+     "text": "Теперь ты креативный директор.",
+     "how": "",
+     "file": "audio/paced/v10.wav",
+     "first_frame": 656,
+     "last_frame": 698
+    },
+    {
+     "id": "v12",
+     "who": "claude",
+     "text": "И единственный дизайнер в компании.",
+     "how": "",
+     "file": "audio/paced/v12.wav",
+     "first_frame": 703,
+     "last_frame": 741
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно она",
+   "camera": "Медленный наезд",
+   "action": "Шок и непонимание: брови вверх, глаза широко, рот приоткрыт, застыла. Без улыбки и радости",
+   "sound": "Тишина",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 746,
+   "last_frame": 779,
+   "lines": []
+  },
+  {
+   "id": 19,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Сбоку: компьютер, Клод, частично она",
+   "camera": "Статика",
+   "action": "Клод перечисляет, она смотрит на него",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 780,
+   "last_frame": 883,
+   "lines": [
+    {
+     "id": "v13",
+     "who": "claude",
+     "text": "На тебе сайт, приложение и маркетинг.",
+     "how": "как список задач",
+     "file": "audio/paced/v13.wav",
+     "first_frame": 780,
+     "last_frame": 838
+    },
+    {
+     "id": "v15",
+     "who": "claude",
+     "text": "А ещё ты ведёшь корпоратив.",
+     "how": "тем же ровным тоном, как следующий пункт списка",
+     "file": "audio/paced/v15.wav",
+     "first_frame": 842,
+     "last_frame": 878
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно она",
+   "camera": "Статика",
+   "action": "Смотрит на него с отчаянием",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 884,
+   "last_frame": 935,
+   "lines": [
+    {
+     "id": "v16",
+     "who": "girl",
+     "text": "Я же сказала отвечать коротко.",
+     "how": "растерянно, с отчаянием в голосе",
+     "file": "audio/paced/v16.wav",
+     "first_frame": 884,
+     "last_frame": 931
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "С уровня стола снизу на Клода",
+   "camera": "Медленный наезд",
+   "action": "Клод невозмутим, смотрит прямо",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 936,
+   "last_frame": 962,
+   "lines": [
+    {
+     "id": "v17",
+     "who": "claude",
+     "text": "Я отвечал «да».",
+     "how": "абсолютно ровно, без упрёка, как очевидный факт, чуть выделяя слово да",
+     "file": "audio/paced/v17.wav",
+     "first_frame": 936,
+     "last_frame": 958
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Фронтальный на двоих",
+   "camera": "Статика",
+   "action": "Пауза, она смотрит в одну точку, затем реплика",
+   "sound": "Часы или тишина",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 963,
+   "last_frame": 1020,
+   "lines": [
+    {
+     "id": "v18",
+     "who": "girl",
+     "text": "Ну. Зато не уволили.",
+     "how": "пытается найти плюс, с грустной улыбкой",
+     "file": "audio/paced/v18.wav",
+     "first_frame": 982,
+     "last_frame": 1015
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно она",
+   "camera": "Статика",
+   "action": "Тяжело вздыхает, нехотя придвигает ноутбук и кладёт руки на клавиатуру",
+   "sound": "Тяжёлый вздох",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1021,
+   "last_frame": 1083,
+   "lines": [
+    {
+     "id": "v19",
+     "who": "girl",
+     "text": "Ладно. С чего начнём?",
+     "how": "обречённо и очень нехотя, с тяжёлым вздохом",
+     "file": "audio/paced/v19.wav",
+     "first_frame": 1037,
+     "last_frame": 1079
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Поворачивается к ней",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1084,
+   "last_frame": 1195,
+   "lines": [
+    {
+     "id": "v20",
+     "who": "claude",
+     "text": "Не переживай. Я уже сделал редизайн сайта, приложение и баннеры на Чёрную пятницу.",
+     "how": "тепло, но ровно, спокойно перечисляет как обычный список дел",
+     "file": "audio/paced/v20.wav",
+     "first_frame": 1084,
+     "last_frame": 1191
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно она",
+   "camera": "Статика",
+   "action": "Руки замирают над клавиатурой, она медленно переводит взгляд на экран",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1196,
+   "last_frame": 1214,
+   "lines": []
+  },
+  {
+   "id": 26,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "С обратной стороны ноутбука на её лицо",
+   "camera": "Низко за крышкой ноутбука, медленный наезд",
+   "action": "Экрана не видим, как чемоданчик в «Криминальном чтиве». Из ноутбука на её лицо разгорается золотое сияние",
+   "sound": "Мягкий приятный сигнал",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1215,
+   "last_frame": 1262,
+   "lines": []
+  },
+  {
+   "id": 27,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Продолжение: она в золотом свете",
+   "camera": "Продолжение наезда",
+   "action": "Одновременно со словом «Красиво»: глаза-звёзды, кулачки у груди, маленький открытый рот, золотые искры. Реакция держится чуть после слова. На «А корпоратив?» поворачивается к Клоду, сияние гаснет",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1263,
+   "last_frame": 1336,
+   "lines": [
+    {
+     "id": "v21",
+     "who": "girl",
+     "text": "Красиво.",
+     "how": "восхищённо, с облегчением",
+     "file": "audio/paced/v21.wav",
+     "first_frame": 1273,
+     "last_frame": 1291
+    },
+    {
+     "id": "v27",
+     "who": "girl",
+     "text": "А корпоратив?",
+     "how": "с надеждой",
+     "file": "audio/paced/v27.wav",
+     "first_frame": 1313,
+     "last_frame": 1332
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Абсолютно серьёзен",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1337,
+   "last_frame": 1355,
+   "lines": [
+    {
+     "id": "v22",
+     "who": "claude",
+     "text": "Проведу я.",
+     "how": "абсолютно серьёзно, коротко и ровно, как решённый вопрос",
+     "file": "audio/paced/v22.wav",
+     "first_frame": 1337,
+     "last_frame": 1351
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Общий план",
+   "camera": "Статика",
+   "action": "Улыбается, берёт чашку, встаёт на «Тогда на сегодня всё», идёт к краю кадра, оборачивается на вопрос",
+   "sound": "Тихая уютная музыка входит, шаги",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1356,
+   "last_frame": 1428,
+   "lines": [
+    {
+     "id": "v23",
+     "who": "girl",
+     "text": "Тогда на сегодня всё. Завтра снова меня подменишь?",
+     "how": "радостно и легко, уже вставая, с облегчением",
+     "file": "audio/paced/v23.wav",
+     "first_frame": 1370,
+     "last_frame": 1424
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Крупно Клод",
+   "camera": "Статика",
+   "action": "Короткий кивок на «Конечно!»",
+   "sound": "",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1429,
+   "last_frame": 1444,
+   "lines": [
+    {
+     "id": "v24",
+     "who": "claude",
+     "text": "Конечно!",
+     "how": "услужливо и искренне, бодро, но абсолютно серьёзно, без шутки",
+     "file": "audio/paced/v24.wav",
+     "first_frame": 1429,
+     "last_frame": 1440
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "scene": 2,
+   "setting": "вечер",
+   "framing": "Общий план",
+   "camera": "Медленный отъезд",
+   "action": "Она уходит. Уютная вечерняя комната, лампа, Клод на столе. Конец",
+   "sound": "За кадром включается сериал, музыка затихает",
+   "caption": "",
+   "transition": null,
+   "sfx": [],
+   "first_frame": 1445,
+   "last_frame": 1499,
+   "lines": []
+  }
+ ]
+}

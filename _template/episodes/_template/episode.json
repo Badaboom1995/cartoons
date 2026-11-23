@@ -1,0 +1,27 @@
+{
+  "id": "ep-NNN",
+  "title": "Название",
+  "pacing": { "start": 0.2, "line_gap": 0.14, "tail": 0.17, "end": 0.5, "tempo": 1.2, "max_pause": 0.14 },
+  "voices": {},
+  "scenes": [
+    {
+      "title": "Название сцены",
+      "setting": "день",
+      "shots": [
+        {
+          "id": 1,
+          "duration": 3,
+          "lead": 0.5,
+          "framing": "Общий план",
+          "camera": "Статика",
+          "action": "Что видно в кадре",
+          "why": "Зачем этот шот",
+          "sound": "Фоновый звук",
+          "lines": [
+            { "id": "v01", "who": "hero", "text": "Реплика", "how": "подача" }
+          ]
+        }
+      ]
+    }
+  ]
+}
